@@ -25,13 +25,18 @@
 |6/25/2018| +2.00 | User Donation | -0.39 (Paypal) |
 |7/02/2018| -4.7 | Digital Ocean | |
 |7/05/2018| +10.00 | User Donation | -0.59 (Paypal) |
-|7/16/2018| -5 | Bank Service Charge | |
-|8/02/2018| -5 | Digital Ocean | |
+|7/16/2018| -5.00 | Bank Service Charge | |
+|8/02/2018| -5.00 | Digital Ocean | |
 |8/02/2018| -5.32 | Google | |
 |8/05/2018| +10.00 | User Donation | -0.59 (Paypal) |
 |8/13/2018| +20.00 | User Donation | -1.18 (Paypal) |
-|8/14/2018| -5 | Bank Service Charge | |
-|9/04/2018| -5 | Digital Ocean | |
+|8/14/2018| -5.00 | Bank Service Charge | |
+|9/04/2018| -5.00 | Digital Ocean | |
 |9/04/2018| -16.35 | Google | |
 |9/04/2018| +10.00 | User Donation | -0.59 (Paypal) |
 |9/05/2018| +10.00 | User Donation | -0.59 (Paypal) |
+|9/07/2018| +5.00 | Bank Fee Refund | |
+|9/07/2018| +5.00 | Bank Fee Refund | |
+|9/14/2018| +100.00 | User Donation | -3.20 (Paypal) |
+|9/17/2018| -5.00 | Bank Service Charge | |
+|9/22/2018| +20.00 | User Donation | -0.88 (Paypal) |

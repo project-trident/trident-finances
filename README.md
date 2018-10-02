@@ -14,3 +14,4 @@ Budget and Financial documentation for Project Trident
 |June 2018 | $184.81 | 5 |
 |July 2018 | $184.52 | 1 |
 |August 2018 | $197.43 | 2 |
+|September 2018 | $315.82 | 4 |

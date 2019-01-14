@@ -16,13 +16,13 @@
 ## Line-item details
 
 ### 2019
-| Date | Amount | Info | Fees |
+| Date | Income | Expense | Info | Fees |
 |:---:|:---:|:---:|:---:|
-|01/02/2019| -5.00 | Digital Ocean | |
-|01/02/2019| -16.35 | Google | |
-|1/05/2019| +10.00 | User Donation | -0.59 (Paypal) |
-|1/09/2019| +10.00 | User Donation | -0.59 (Paypal) |
-|1/12/2019| +10.00 | User Donation | -0.74 (Paypal) |
+|01/02/2019| | -5.00 | Digital Ocean | |
+|01/02/2019| | -16.35 | Google | |
+|1/05/2019| 10.00 | | User Donation | -0.59 (Paypal) |
+|1/09/2019| 10.00 | | User Donation | -0.59 (Paypal) |
+|1/12/2019| 10.00 | | User Donation | -0.74 (Paypal) |
 
 ### 2018
 | Date | Amount | Info | Fees |

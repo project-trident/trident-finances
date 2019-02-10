@@ -2,10 +2,10 @@
 Budget and Financial documentation for Project Trident
 
 ### [Budget.md](https://github.com/project-trident/trident-finances/blob/master/Budget.md)
-* Monthly/yearly budget for Project Trident as well as future goals/targets.
+* Current-year budget for Project Trident as well as future goals/targets.
 
 ### [Financial.md](https://github.com/project-trident/trident-finances/blob/master/Finances.md)
-* Financial document with monthly summaries as well as line-item report for donations/expenditures.
+* Current-year financial document with monthly summaries as well as line-item report for donations/expenditures.
 
 ### Financial Summary (simplified version from Financial.md)
 | Month | Ending Balance | Individual Donations |
@@ -18,3 +18,10 @@ Budget and Financial documentation for Project Trident
 |October 2018 | $303.88 | 1 |
 |November 2018 | $303.89 | 3 |
 |December 2018 | $291.95 | 1 |
+|January 2019 | $360.14 | 6 |
+
+
+## Financial Archives
+Contains all financial information from the designated year, as well as totals/summaries for the whole year.
+
+*  [2018](https://github.com/project-trident/trident-finances/blob/master/Archives/2018.md)

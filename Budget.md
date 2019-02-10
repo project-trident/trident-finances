@@ -6,11 +6,11 @@
 | Package Server | ? | ? | [iXsystems](http://ixsystems.com) |
 | Build Server | ? | ? | JT |
 | Build Server Internet/Electricity | ? | ? | [iXsystems](http://ixsystems.com) |
-| Email Accounts (Google) | $15 | $180 | |
+| Email Accounts (Google) | $17 | $204 | |
 
 Taxes/Fees: 10% (estimate for budgeting)
 
-**Totals:** $22/month, $264/year
+**Totals:** $24.20/month, $290.40/year
 
 ## Future Goals (and sponsorship opportunities)
 | Goal | Startup Cost (estimate) | Recurring Cost (estimate) | Additional Information |

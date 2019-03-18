@@ -1,16 +1,17 @@
 # Budget for Project Trident
 
-| Expense | Monthly Cost | Yearly Cost | Sponsorship
-|:---:|:---:|:---:|:---:|
+| Expense | Monthly Cost | Yearly Cost | Sponsorship | Notes |
+|:---:|:---:|:---:|:---:|:---:|
 | Website Server (Digital Ocean) | $5 | $60 | |
-| Package Server | ? | ? | [iXsystems](http://ixsystems.com) |
-| Build Server | ? | ? | JT |
-| Build Server Internet/Electricity | ? | ? | [iXsystems](http://ixsystems.com) |
-| Email Accounts (Google) | $17 | $204 | |
+| Package Server | ? | ? | [iXsystems](http://ixsystems.com) | |
+| Build Server | ? | ? | JT | |
+| Build Server Internet/Electricity | ? | ? | [iXsystems](http://ixsystems.com) | |
+| Email Accounts (Google) | $17 | $204 | | |
+| Domain Names (Google) | $3 | $36 | | project-trident.[org/net/com] |
 
 Taxes/Fees: 10% (estimate for budgeting)
 
-**Totals:** $24.20/month, $290.40/year
+**Totals:** $27.50/month, $330/year
 
 ## Future Goals (and sponsorship opportunities)
 | Goal | Startup Cost (estimate) | Recurring Cost (estimate) | Additional Information |

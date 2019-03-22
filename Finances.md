@@ -12,6 +12,7 @@
 |November 2018 | $23.00 | $22.99 | $0.01 | $303.88 | $303.89 | 3 |
 |December 2018 | $10.00 | $21.94 | -$11.94 | $303.89 | $291.95 | 1 |
 |January 2019 | $95.00 | $26.81 | $68.19 | $291.95 | $360.14 | 6 |
+|February 2019 | $30.00 | $23.43 | $6.57 | $360.14 | $366.71 | 4 |
 
 ## Line-item details
 
@@ -29,3 +30,16 @@
 |2/04/2019| | -5.00 | Digital Ocean | |
 |2/04/2019| | -16.35 | Google | |
 |2/5/2019| 10.00 | | User Donation | -0.59 (Paypal) |
+|2/16/2019| 5.00 | | User Donation | -0.45 (Paypal) |
+|2/19/2019| 5.00 | | User Donation | -0.45 (Paypal) |
+|2/26/2019| 10.00 | | User Donation | -0.59 (Paypal) |
+|3/04/2019| | -5.00 | Digital Ocean | |
+|3/04/2019| | -16.35 | Google | |
+|3/04/2019| | -12.00 | Google (Domain)| |
+|3/04/2019| | -12.00 | Google (Domain)| |
+|3/04/2019| | -12.00 | Google (Domain)| |
+|3/5/2019| 10.00 | | User Donation | -0.59 (Paypal) |
+|3/10/2019| 40.00 | | User Donation | -2.06 (Paypal) |
+|3/16/2019| 5.00 | | User Donation | -0.52 (Paypal) |
+|3/16/2019| 5.00 | | User Donation (+1) | -0.52 (Paypal) |
+|3/16/2019| 5.00 | | User Donation | -0.45 (Paypal) |

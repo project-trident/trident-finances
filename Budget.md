@@ -3,9 +3,8 @@
 | Expense | Monthly Cost | Yearly Cost | Sponsorship | Notes |
 |:---:|:---:|:---:|:---:|:---:|
 | Website Server (Digital Ocean) | $5 | $60 | |
-| Package Server | ? | ? | [iXsystems](http://ixsystems.com) | |
-| Build Server | ? | ? | JT | |
-| Build Server Internet/Electricity | ? | ? | [iXsystems](http://ixsystems.com) | |
+| Package CDN | ? | ? | [iXsystems](http://ixsystems.com) | |
+| Build Server (AWS/EC2) | ? | ? | [iXsystems](http://ixsystems.com) | |
 | Email Accounts (Google) | $17 | $204 | | |
 | Domain Names (Google) | $3 | $36 | | project-trident.[org/net/com] |
 

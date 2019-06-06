@@ -13,6 +13,10 @@
 |December 2018 | $10.00 | $21.94 | -$11.94 | $303.89 | $291.95 | 1 |
 |January 2019 | $95.00 | $26.81 | $68.19 | $291.95 | $360.14 | 6 |
 |February 2019 | $30.00 | $23.43 | $6.57 | $360.14 | $366.71 | 4 |
+|March 2019 | $65.00 | $61.49 | $3.57 | $366.71 | $370.28 | 5 | Renewed Web Domains for 1 year
+|April 2019 | $65.00 | $24.14 | $40.86 | $370.28 | $411.14 | 3 |
+|May 2019 | $120.00 | $29.17 | $90.83 | $411.14 | $501.97 | 4 |
+
 
 ## Line-item details
 
@@ -35,11 +39,26 @@
 |2/26/2019| 10.00 | | User Donation | -0.59 (Paypal) |
 |3/04/2019| | -5.00 | Digital Ocean | |
 |3/04/2019| | -16.35 | Google | |
-|3/04/2019| | -12.00 | Google (Domain)| |
-|3/04/2019| | -12.00 | Google (Domain)| |
-|3/04/2019| | -12.00 | Google (Domain)| |
 |3/5/2019| 10.00 | | User Donation | -0.59 (Paypal) |
 |3/10/2019| 40.00 | | User Donation | -2.06 (Paypal) |
+|3/13/2019| | -12.00 | Google (Domain)| |
+|3/13/2019| | -12.00 | Google (Domain)| |
+|3/13/2019| | -12.00 | Google (Domain)| |
 |3/16/2019| 5.00 | | User Donation | -0.52 (Paypal) |
 |3/16/2019| 5.00 | | User Donation (+1) | -0.52 (Paypal) |
 |3/16/2019| 5.00 | | User Donation | -0.45 (Paypal) |
+|4/02/2019| | -5.00 | Digital Ocean | |
+|4/02/2019| | -16.35 | Google | |
+|4/05/2019| 10.00 | | User Donation | -0.59 (Paypal) |
+|4/16/2019| 5.00 | | User Donation | -0.45 (Paypal) |
+|4/19/2019| 50.00 | | User Donation | -1.75 (Paypal) |
+|5/02/2019| | -5.00 | Digital Ocean | |
+|5/03/2019| | -19.41 | Google | |
+|5/05/2019| 10.00 | | User Donation | -0.59 (Paypal) |
+|5/16/2019| 5.00 | | User Donation | -0.52 (Paypal) |
+|5/16/2019| 100.00 | | User Donation | -3.20 (Paypal) |
+|5/16/2019| 5.00 | | User Donation | -0.45 (Paypal) |
+|6/03/2019| | -5.00 | Digital Ocean | |
+|6/03/2019| | -19.62 | Google | |
+|6/05/2019| 10.00 | | User Donation | -0.59 (Paypal) |
+

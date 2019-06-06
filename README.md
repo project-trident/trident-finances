@@ -20,7 +20,9 @@ Budget and Financial documentation for Project Trident
 |December 2018 | $291.95 | 1 |
 |January 2019 | $360.14 | 6 |
 |February 2019 | $366.71 | 4 |
-
+|March 2019 | $370.28 | 5 | 
+|April 2019 | $411.14 | 3 |
+|May 2019 | $501.97 | 4 |
 
 ## Financial Archives
 Contains all financial information from the designated year, as well as totals/summaries for the whole year.

@@ -3,14 +3,12 @@
 | Expense | Monthly Cost | Yearly Cost | Sponsorship | Notes |
 |:---:|:---:|:---:|:---:|:---:|
 | Website Server (Digital Ocean) | $5 | $60 | |
-| Package CDN | ? | ? | [iXsystems](http://ixsystems.com) | |
-| Build Server (AWS/EC2) | ? | ? | [iXsystems](http://ixsystems.com) | |
-| Email Accounts (Google) | $17 | $204 | | |
-| Domain Names (Google) | $3 | $36 | | project-trident.[org/net/com] |
+| Email Accounts (Google) | $20 | $240 | | |
+| Domain Names (Google) | $4 | $48 | | project-trident.[org/net/com], lumina-desktop.org |
 
 Taxes/Fees: 10% (estimate for budgeting)
 
-**Totals:** $27.50/month, $330/year
+**Totals:** $31.90/month, $382.80/year
 
 ## Future Goals (and sponsorship opportunities)
 | Goal | Startup Cost (estimate) | Recurring Cost (estimate) | Additional Information |

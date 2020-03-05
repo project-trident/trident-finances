@@ -4,7 +4,7 @@
 
 ### 2020
 | Month | Income | Expense | Fees | Total | Starting Balance | Ending Balance | Individual Donations | Additional Notes
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |January 2020 | $15 | $24.62 | $1.04 | -$10.66 | $428.16 | $417.50 | 2 | 
 |February 2020 | $15 | $24.62 | $1.04 | -$10.66 | $417.50 | $406.84 | 2 | 
 

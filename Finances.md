@@ -61,4 +61,59 @@
 |6/03/2019| | -5.00 | Digital Ocean | |
 |6/03/2019| | -19.62 | Google | |
 |6/05/2019| 10.00 | | User Donation | -0.59 (Paypal) |
+|6/15/2019| 30.00 | | User Donation | -1.17 (Paypal) |
+|6/16/2019| 5.00 | | User Donation | -0.45 (Paypal) |
+|6/16/2019| 5.00 | | User Donation | -0.52 (Paypal) |
+|6/19/2019| | -12.00 | Google Domains | |
+|7/02/2019| | -5.00 | Digital Ocean | |
+|7/02/2019| | -19.62 | Google | |
+|7/02/2019| 5.00 | | User Donation | -0.52 (Paypal) |
+|7/05/2019| 10.00 | | User Donation | -0.59 (Paypal) |
+|7/16/2019| 5.00 | | User Donation | -0.52 (Paypal) |
+|7/16/2019| 5.00 | | User Donation | -0.45 (Paypal) |
+|7/16/2019| 15.00 | | User Donation | -0.74 (Paypal) |
+|8/02/2019| | -5.00 | Digital Ocean | |
+|8/02/2019| | -19.62 | Google | |
+|8/05/2019| 10.00 | | User Donation | -0.59 (Paypal) |
+|8/08/2019| 20.00 | | User Donation | -0.88 (Paypal) |
+|8/16/2019| 5.00 | | User Donation | -0.45 (Paypal) |
+|8/16/2019| 5.00 | | User Donation | -0.52 (Paypal) |
+|9/03/2019| | -5.00 | Digital Ocean | |
+|9/03/2019| | -19.62 | Google | |
+|9/05/2019| 10.00 | | User Donation | -0.59 (Paypal) |
+|9/16/2019| 5.00 | | User Donation | -0.52 (Paypal) |
+|9/16/2019| 5.00 | | User Donation | -0.45 (Paypal) |
+|9/17/2019| | -7.00 | Taxes | |
+|10/02/2019| | -5.00 | Digital Ocean | |
+|10/02/2019| | -19.62 | Google | |
+|10/05/2019| 10.00 | | User Donation | -0.59 (Paypal) |
+|10/16/2019| 5.00 | | User Donation | -0.52 (Paypal) |
+|10/16/2019| 5.00 | | User Donation | -0.45 (Paypal) |
+|10/16/2019| 5.00 | | User Donation | -0.45 (Paypal) |
+|10/17/2019| 5.00 | | User Donation | -0.00 (Paypal) |
+|11/04/2019| | -5.00 | Digital Ocean | |
+|11/04/2019| | -19.62 | Google | |
+|11/05/2019| 10.00 | | User Donation | -0.59 (Paypal) |
+|11/16/2019| 5.00 | | User Donation | -0.52 (Paypal) |
+|11/16/2019| 5.00 | | User Donation | -0.45 (Paypal) |
+|12/02/2019| | -5.00 | Digital Ocean | |
+|12/02/2019| | -19.62 | Google | |
+|12/05/2019| 10.00 | | User Donation | -0.59 (Paypal) |
+|12/06/2019| | -68.25 | Fiverr (New logo) | |
+|12/11/2019| | -15.00 | Fiverr (New logo Tip) | |
+|12/16/2019| 5.00 | | User Donation | -0.45 (Paypal) |
 
+### 2020
+| Date | Income | Expense | Info | Fees |
+|:---:|:---:|:---:|:---:|:---:|
+|1/02/2020| | -5.00 | Digital Ocean | |
+|1/02/2020| | -19.62 | Google | |
+|1/05/2020| 10.00 | | User Donation | -0.59 (Paypal) |
+|1/16/2020| 5.00 | | User Donation | -0.45 (Paypal) |
+|2/03/2020| | -5.00 | Digital Ocean | |
+|2/03/2020| | -19.62 | Google | |
+|2/05/2020| 10.00 | | User Donation | -0.59 (Paypal) |
+|2/16/2020| 5.00 | | User Donation | -0.45 (Paypal) |
+|3/02/2020| | -5.00 | Digital Ocean | |
+|3/02/2020| | -19.62 | Google | |
+|3/05/2020| 10.00 | | User Donation | -0.59 (Paypal) |
